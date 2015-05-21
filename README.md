@@ -3,7 +3,7 @@ Thursday, May 21, 2015
 
 ## About repository
 
-This repository contains necessary files of course project "Getting and Cleaning Data", hosted on <a href="www.coursera.org">Coursera</a>. The idea of the course project is to obtain and tidy data that can be found on the <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">here</a>. The data were collected from the accelerometers of Samsung Galaxy S smartphone that was carried by different subject in different conditions. Full description of the available raw data can be found <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">here</a>
+This repository contains necessary files of course project "Getting and Cleaning Data", hosted on <a href="www.coursera.org">Coursera</a>. The idea of the course project is to obtain and tidy data that can be found <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">here</a>. The data were collected from the accelerometers of Samsung Galaxy S smartphone that was carried by different subject in different conditions. Full description of the available raw data can be found <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">here</a>.
 
 ## Project course tasks
 
